@@ -2,123 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca68714-8256-4955-920c-5d04de4d0645" name="Default Changelist" comment="autoFrame">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bcprov_jdk15on.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyMavenTestProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/eaf-api-test-case.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/java/DeviceListRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/java/GetDeviceListResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/java/PolicyDevices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/java/PolicyTargets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/guns/GunsMgrLoginTestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/person/PersonGroupListTestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/test/java/Base/BaseApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/test/java/JsonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/test/java/guns/GunsMgrLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/src/test/java/person/PersonGroupListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/DeviceListRes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/GetDeviceListResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/PolicyDevices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/PolicyTargets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/dataProvider/guns/GunsMgrLoginTestData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/dataProvider/person/PersonGroupListTestData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/test-classes/Base/BaseApiTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/test-classes/JsonTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/test-classes/JsonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/test-classes/guns/GunsMgrLoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-api-test-case/target/test-classes/person/PersonGroupListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/eaf-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/app/AbstractServiceCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/app/GunsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/app/PersonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/appcaller/GunsAppCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/appcaller/PersonAppCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/requestbean/guns/GunsMgrLoginRequestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/requestbean/person/PersonGroupListRequestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/responsebean/basic/BaseRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/responsebean/person/PageRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/src/main/java/responsebean/person/PersonGroupListRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/app/AbstractServiceCaller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/app/GunsApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/app/PersonApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/appcaller/GunsAppCaller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/appcaller/PersonAppCaller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/requestbean/guns/GunsMgrLoginRequestBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/requestbean/person/PersonGroupListRequestBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/responsebean/basic/BaseRes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/responsebean/person/PageRes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/classes/responsebean/person/PersonGroupListRes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/eaf-app-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-app/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-biz/eaf-biz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-biz/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-biz/target/eaf-biz-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-biz/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-biz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-biz/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/eaf-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/HttpApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/HttpClientUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/HttpMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/builder/HCB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/HttpConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/HttpCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/HttpHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/HttpMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/HttpResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/SSLs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/util/OCR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/util/OldOCR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/util/PropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/common/util/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/evictor/NIdleConnectionEvictor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/src/main/java/http/exception/HttpProcessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/common/AES256Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/HttpApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/HttpClientUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/HttpMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/HttpUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/builder/HCB$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/builder/HCB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpCookies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpHeader$Headers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpHeader$HttpReqHead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpHeader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/HttpResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/SSLs$SSLHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/SSLs$SSLProtocolVersion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/SSLs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/util/OCR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/util/OldOCR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/util/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/common/util/StringUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/evictor/NIdleConnectionEvictor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/evictor/NIdleConnectionEvictor$DefaultThreadFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/evictor/NIdleConnectionEvictor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/classes/http/exception/HttpProcessException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/eaf-core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eaf-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-api-test-case/target/classes/dataProvider/guns/GunsMgrLoginTestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/eaf-api-test-case/target/classes/dataProvider/guns/GunsMgrLoginTestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-app/target/eaf-app-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-app/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-app/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eaf-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-core/target/classes/common/AES256Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/eaf-core/target/classes/common/AES256Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eaf-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/eaf-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -151,21 +45,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/test/java/JsonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/test/java/guns/GunsMgrLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="73">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -173,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/guns/GunsMgrLoginTestData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -188,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+            <state relative-caret-position="134">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,18 +95,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eaf-api-test-case/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eaf-app/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
+            <state relative-caret-position="817">
               <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
             </state>
           </provider>
@@ -230,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eaf-core/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="380">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -308,17 +184,17 @@
         <option value="$PROJECT_DIR$/eaf-app/src/main/java/appcaller/GunsAppCaller.java" />
         <option value="$PROJECT_DIR$/eaf-app/pom.xml" />
         <option value="$PROJECT_DIR$/eaf-core/src/main/java/http/evictor/NIdleConnectionEvictor.java" />
-        <option value="$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java" />
         <option value="$PROJECT_DIR$/eaf-app/src/main/java/responsebean/basic/BaseRes.java" />
-        <option value="$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/guns/GunsMgrLoginTestData.java" />
         <option value="$PROJECT_DIR$/eaf-api-test-case/src/test/java/guns/GunsMgrLoginTest.java" />
         <option value="$PROJECT_DIR$/eaf-core/src/main/java/EafCoreApplication.java" />
         <option value="$PROJECT_DIR$/eaf-core/src/main/java/lauch/EafCoreApplication.java" />
         <option value="$PROJECT_DIR$/eaf-api-test-case/src/test/java/Base/BaseApiTest.java" />
-        <option value="$PROJECT_DIR$/eaf-core/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/eaf-core/src/main/java/http/common/Utils.java" />
         <option value="$PROJECT_DIR$/eaf-api-test-case/pom.xml" />
+        <option value="$PROJECT_DIR$/eaf-core/pom.xml" />
+        <option value="$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java" />
+        <option value="$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/guns/GunsMgrLoginTestData.java" />
       </list>
     </option>
   </component>
@@ -381,7 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -434,11 +310,15 @@
               <item name="MyMavenTestProject" type="462c0819:PsiDirectoryNode" />
               <item name="eaf-core" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyMavenTestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -461,7 +341,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2724138" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -541,14 +421,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EafCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eaf-core" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="lauch.EafCoreApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="eaf-api-test-case" />
       <extension name="coverage">
@@ -615,7 +487,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.EafCoreApplication" />
       <item itemvalue="TestNG.GunsMgrLoginTest.testGetGunsMgrLoginTest" />
       <item itemvalue="TestNG.JsonTest.testGetPersonGroupListTest" />
       <item itemvalue="TestNG.PersonGroupListTest" />
@@ -624,7 +495,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.GunsMgrLoginTest.testGetGunsMgrLoginTest" />
-        <item itemvalue="Spring Boot.EafCoreApplication" />
         <item itemvalue="TestNG.PersonGroupListTest.testGetPersonGroupListTest" />
         <item itemvalue="TestNG.PersonGroupListTest" />
         <item itemvalue="TestNG.JsonTest.testGetPersonGroupListTest" />
@@ -653,54 +523,78 @@
       <workItem from="1575356766991" duration="3000" />
       <workItem from="1575356955368" duration="20000" />
       <workItem from="1575357197801" duration="640000" />
-      <workItem from="1575357868434" duration="569000" />
+      <workItem from="1575357868434" duration="1920000" />
+      <workItem from="1575359821302" duration="550000" />
     </task>
+    <task id="LOCAL-00001" summary="autoFrame">
+      <created>1575358508003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575358508003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="autoFrame">
+      <created>1575358689149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575358689149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="autoFrame">
+      <created>1575358762656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575358762656</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.11.29 at 16h 32m 57s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.11.29 at 17h 05m 37s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 11h 46m 57s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 11h 51m 20s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 11h 55m 15s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 11h 56m 05s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 13h 44m 44s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 14h 56m 41s.xml">
-      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 14m 04s.xml">
       <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 26m 40s.xml">
       <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 30m 52s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 31m 23s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 51m 11s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 52m 46s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 53m 30s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 15h 55m 38s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 16h 02m 12s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GunsMgrLoginTest_testGetGunsMgrLoginTest - 2019.12.03 at 16h 03m 38s.xml">
+      <configuration name="GunsMgrLoginTest.testGetGunsMgrLoginTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112886000" />
+    <option name="totallyTimeSpent" value="114787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49945828" visible="true" weight="0.3343419" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49945828" visible="true" weight="0.33963692" />
       <window_info id="Structure" order="6" sideWeight="0.5005417" side_tool="true" weight="0.21108742" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -731,6 +625,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="autoFrame" />
+    <option name="LAST_COMMIT_MESSAGE" value="autoFrame" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -1083,17 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.jar!/org/bouncycastle/util/encoders/Base64.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/test/java/person/PersonGroupListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -1240,24 +1127,31 @@
     <entry file="file://$PROJECT_DIR$/MyMavenTestProject.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/eaf-app/pom.xml">
+    <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/test/java/JsonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        <state relative-caret-position="57">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eaf-core/pom.xml">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.jar!/org/bouncycastle/util/encoders/Base64.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="228">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eaf-app/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eaf-api-test-case/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        <state relative-caret-position="177">
+          <caret line="63" column="50" lean-forward="true" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -1271,17 +1165,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/test/java/JsonTest.java">
+    <entry file="file://$PROJECT_DIR$/eaf-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="380">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/guns/GunsMgrLoginTestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eaf-core/src/main/java/common/AES256Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        <state relative-caret-position="134">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1290,18 +1194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/test/java/guns/GunsMgrLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eaf-api-test-case/src/main/java/dataProvider/guns/GunsMgrLoginTestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="73">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1359,7 +1253,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>eaf-api-test-case</last-edited>
+          <last-edited>eaf-core</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

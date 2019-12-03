@@ -1,6 +1,5 @@
 package common;
 
-import lombok.extern.slf4j.Slf4j;
 import org.bouncycastle.util.encoders.Base64;
 
 import javax.crypto.Cipher;
